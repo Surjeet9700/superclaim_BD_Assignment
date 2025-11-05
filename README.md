@@ -1286,30 +1286,6 @@ Example: Hospital name extraction
 
 ---
 
-### Future Enhancements
-
-**Phase 2 (Production Readiness):**
-- [ ] API authentication (JWT tokens)
-- [ ] Rate limiting per user/IP
-- [ ] Async job queue for long-running extractions
-- [ ] Webhook callbacks for completion notifications
-- [ ] Prometheus metrics + Grafana dashboards
-- [ ] Comprehensive test suite (80%+ coverage)
-
-**Phase 3 (AI Enhancements):**
-- [ ] Fine-tune Gemini on medical billing data
-- [ ] Multi-language support (Hindi, regional languages)
-- [ ] Improved OCR with deep learning models
-- [ ] Document similarity search (detect duplicate claims)
-- [ ] Fraud detection patterns
-- [ ] Claim amount prediction/validation against historical data
-
-**Phase 4 (Scale):**
-- [ ] Distributed processing (Celery + Redis)
-- [ ] Document caching (PostgreSQL + Redis)
-- [ ] Vector embeddings for similar document retrieval
-- [ ] A/B testing framework for prompt iterations
-- [ ] Model performance monitoring and retraining pipeline
 
 ## 📄 License
 
@@ -1319,8 +1295,8 @@ MIT License - see LICENSE file
 
 Built for Superclaims Backend Developer Assignment
 
-**Contact:** [Your Email]
-**GitHub:** [Your GitHub]
+**Contact:** surjeethkumar4@gmail.com
+**GitHub:** surjeet9700
 
 ---
 
